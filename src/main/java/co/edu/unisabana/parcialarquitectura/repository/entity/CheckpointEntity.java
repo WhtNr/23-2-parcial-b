@@ -1,7 +1,7 @@
 package co.edu.unisabana.parcialarquitectura.repository.entity;
 
-import co.edu.unisabana.parcialarquitectura.service.model.Checkin;
-import co.edu.unisabana.parcialarquitectura.service.model.Checkout;
+import co.edu.unisabana.parcialarquitectura.service.library.model.Checkin;
+import co.edu.unisabana.parcialarquitectura.service.library.model.Checkout;
 import java.time.LocalDateTime;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

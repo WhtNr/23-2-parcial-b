@@ -1,4 +1,4 @@
-package co.edu.unisabana.parcialarquitectura.service.model;
+package co.edu.unisabana.parcialarquitectura.service.library.model;
 
 
 import lombok.Data;
